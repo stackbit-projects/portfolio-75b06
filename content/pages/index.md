@@ -11,11 +11,14 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >2
+       Starting back in 2002 with simple HTML/CSS/JavaScript and PHP websites to nowadays React Native, NodeJS, Laravel, Symfony and many more. In last year I was building my skills on more event driven applications, more cloud oriented database solutions and in general more future proof technologies. 
+
+      Currently improving my skills in business, leadership and game
+      development. At current moment learning Unity/Unreal, Blender and many
+      more. My goal is to reach enlightenment on much as possible sides of the
+      beautiful and vast technology world.
+                                  
     actions:
       - label: Contact Me
         url: /contact
