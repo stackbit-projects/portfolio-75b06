@@ -1,9 +1,11 @@
 ---
 title: World Of Ancients
 subtitle: A cautionary tale about riding
-excerpt: >-
-  The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+excerpt: |-
+  Web browser MMORPG game still under development from 2015. Very 
+  different characters, battle system, inventory system, map generator, 
+  dungeon generator and much more. This is spare time project and me and 
+  my friend working when we can.
 date: '2018-01-23'
 thumb_img_path: images/project-1.png
 thumb_img_alt: A motorcycle in a forest
