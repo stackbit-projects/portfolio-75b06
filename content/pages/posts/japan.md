@@ -1,10 +1,12 @@
 ---
 title: AIWeb Library
-excerpt: >-
-  The Shrines of Ise have been celebrated as the prototype of Japanese
-  architecture. Largely of wood, traditional housing and many temple buildings
-  see the use of tatami mats and sliding doors that break down the distinction
-  between rooms and indoor and outdoor space.
+excerpt: |-
+  PHP library file that includes everything that you need for creating 
+  your own Mu Online website, it contains everything from A to Z 
+  (warp,reset,register and etc), that's only Public release, that means 
+  does not have everything on 100%. Original file size is 5624 rows in 
+  public there's only 1704 but it's enought to have normally working 
+  website.
 date: '2019-03-24'
 thumb_img_path: images/2.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
