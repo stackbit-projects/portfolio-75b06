@@ -25,7 +25,7 @@ sections:
         style: button
   - section_id: recent-posts
     type: section_posts
-    title: Latest Posts
+    title: Latest Projects
     posts_number: 4
     actions:
       - label: View Blog
