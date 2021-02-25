@@ -6,7 +6,7 @@
     "header": {
         "title": "Kaloyan Iliev",
         "tagline": "Full Stack Developer",
-        "profile_img": "images/avatar.png",
+        "profile_img": "images/profile.png",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
