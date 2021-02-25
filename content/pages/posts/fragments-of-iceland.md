@@ -8,7 +8,7 @@ excerpt: |-
   WeLoveStartups board members and ambassadors, by UpdateME they will 
   connect more freely, share more and stay on one page always.
 date: '2019-03-27'
-thumb_img_path: images/7.jpg
+thumb_img_path: images/project-featured.png
 thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
 content_img_alt: Icelandic horses
