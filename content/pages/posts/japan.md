@@ -8,7 +8,7 @@ excerpt: |-
   public there's only 1704 but it's enought to have normally working 
   website.
 date: '2019-03-24'
-thumb_img_path: images/2.jpg
+thumb_img_path: images/project-5.png
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
 content_img_path: images/2.jpg
 content_img_alt: Fushimi Inari Shrine in Kyoto
